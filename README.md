@@ -19,5 +19,4 @@ class cryonicx(ReadMe):
         self.location = "World"
         self.age = "17"
         self.occupation = "Paid Developer"
-        self.operating_system = "DİRTİN ALALHINI MUHAMMEDİNİ SİKEYİM"
 ````
