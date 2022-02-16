@@ -1,16 +1,23 @@
-### Hi there 👋
+````py
+from GitHub import ReadMe
 
-<!--
-**CryonicsX/CryonicsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class cryonicx(ReadMe):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = "cryonicx"
+        self.contacts = {
+            "Discord": "@cryonicx#1337",
+            "Telegram": "@cryonicx",
+            "Icq": "@cryonicx",
+            "Wp": "+1 (267) 228-9283"
+        }
+        self.alises = [
+            "CRYONICX",
+            "cryonicx#1337",
+            "sayroniks"
+        ]
+        self.location = "World"
+        self.age = "17"
+        self.occupation = "Paid Developer"
+        self.operating_system = "Parrot, Linux"
+````
