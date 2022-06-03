@@ -9,7 +9,8 @@ class cryonicx(ReadMe):
             "Discord": "@cryonicx#4185",
             "Telegram": "@cryonicx",
             "Icq": "@cryonicx",
-            "Wp": "+1 (267) 228-9283"
+            "Wp": "+1 (267) 228-9283",
+            "proton": "cryonicx@protonmail.com"
         }
         self.alises = [
             "CRYONICX",
