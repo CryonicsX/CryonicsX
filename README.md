@@ -6,7 +6,7 @@ class cryonicx(ReadMe):
     def __init__(self):
         self.username = "cryonicx"
         self.contacts = {
-            "Discord": "user0#1337",
+            "Discord": "cryonicx#1337",
             "Telegram": "@cryonicx",
             "Icq": "@cryonicx",
             "Wp": "+1 (267) 228-9283",
