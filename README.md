@@ -8,15 +8,8 @@ class cryonicx(ReadMe):
         self.contacts = {
             "Discord": "cryonicx#5232",
             "Telegram": "@cryonicx",
-            "Icq": "@cryonicx",
-            "Wp": "+1 (267) 228-9283",
-            "proton": "cryonicx@protonmail.com"
+            "Icq": "@cryonicx"
         }
-        self.alises = [
-            "CRYONICX",
-            "sayroniks"
-        ]
         self.location = "World"
-        self.age = "17"
-        self.occupation = "Paid Developer"
+        self.age = "18"
 ````
