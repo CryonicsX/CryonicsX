@@ -8,7 +8,7 @@ class cryonicx(ReadMe):
         self.contacts = {
             "Discord": "cryonicx#5232",
             "Telegram": "@cryonicx",
-            "Icq": "@cryonicx"
+            "Roblox": "@Cryonicx"
         }
         self.location = "World"
         self.age = "18"
