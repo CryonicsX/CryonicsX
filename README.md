@@ -6,8 +6,7 @@ class cryonicx(ReadMe):
     def __init__(self):
         self.username = "cryonicx"
         self.contacts = {
-            "Telegram": "@cryonicx",
-            "Whatsapp": "+44 7342 514334"
+            "Telegram": "@cryonicx"
         }
         self.location = "World"
         self.age = "18"
