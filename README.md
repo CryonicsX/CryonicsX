@@ -36,9 +36,9 @@ As a brand, CryonicX is committed to:
 
 	“Innovation is at the core of everything we do. We don’t just create software; we build solutions that inspire, empower, and transform.”
 
-📫 Let’s Collaborate
+## 📫 Let’s Collaborate  
 
-Are you ready to be part of the CryonicX journey?
-	•	Website: [Coming Soon]
-	•	Telegram: @cryonicx
-	•	Email: cryonicx@protonmail.com
+Are you ready to be part of the CryonicX journey?  
+- **Website:** [Coming Soon]  
+- **Telegram:** [@cryonicx](https://t.me/cryonicx)  
+- **Email:** [cryonicx@protonmail.com](mailto:cryonicx@protonmail.com)  
